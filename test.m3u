@@ -36,21 +36,11 @@ http://r.jdshipin.com/ndGgS
 
 
 
-#EXTINF:-1 tvg-name="测试TVB翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0522
-http://iptv.4666888.xyz/iptv2A.php?id=25
-#EXTINF:-1 tvg-name="测试TVB翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0522
-http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-#EXTINF:-1 tvg-name="测试TVB翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0522
+
+#EXTINF:-1 tvg-name="测试TVB翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0523
 http://iptv.4666888.xyz/iptv2A.php?id=26
-#EXTINF:-1 tvg-name="测试TVB翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0522
+#EXTINF:-1 tvg-name="测试TVB翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0523
 http://67.220.71.199:2347/livehttpplay?channel_id=30025
-#EXTINF:-1 tvg-name="测试TVB翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0522
-http://v2h.veryfast.filegear-sg.me/live/j1/stream.m3u8
-#EXTINF:-1 tvg-name="测试TVB翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0522
+#EXTINF:-1 tvg-name="测试TVB翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0523
 http://o11.163189.xyz/stream/tvb/fct/
-#EXTINF:-1 tvg-name="测试TVB翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0522
-https://stream1.freetv.fun/14dd4824a739bea77e4552acc8014b7b5ee449afe6689c75cbc2293c34b51516.m3u8
-#EXTINF:-1 tvg-name="测试TVB翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0522
-http://iptv.4666888.xyz/iptv2A.php?id=34
-#EXTINF:-1 tvg-name="测试TVB翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0522
-http://67.220.71.199:2347/livehttpplay?channel_id=20123
+
