@@ -37,14 +37,16 @@ http://r.jdshipin.com/ndGgS
 
 
 #EXTINF:-1 tvg-name="测试TVB翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0522
-https://stream1.freetv.fun/14dd4824a739bea77e4552acc8014b7b5ee449afe6689c75cbc2293c34b51516.m3u8
+http://113.64.147.40:808/hls/67/index.m3u8
 #EXTINF:-1 tvg-name="测试TVB翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0522
-http://iptv.4666888.xyz/iptv2A.php?id=34
+https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 tvg-name="测试TVB翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0522
-http://74.91.26.218:82/live/j2.m3u8
+http://dadiao.akjp.cn:1936/0.m3u8
 #EXTINF:-1 tvg-name="测试TVB翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0522
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
+http://2022.stream-link.org/live/131217689
 #EXTINF:-1 tvg-name="测试TVB翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0522
 https://iptv.852851.xyz/ch/490e01bc4bc49c735fdf421170bb4536/master.m3u8
 #EXTINF:-1 tvg-name="测试TVB翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0522
 http://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 tvg-name="测试TVB翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0522
+https://pull-l3-cny.douyincdn.com/live/stream-19882782023022818478.m3u8
