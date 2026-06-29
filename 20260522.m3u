@@ -9,7 +9,7 @@ https://live.264788.xyz/channel/cctv5?streamid=188da934b8ba25977f0ac6a59478a16b&
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" http-user-agent="AptvPlayer-UA" group-title="央视频道",CCTV5
 http://69.30.245.50/live/cctv5.m3u8
 #EXTINF:-1 tvg-id="CCTV5p" tvg-name="CCTV5p" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV5.png" http-user-agent="AptvPlayer-UA" group-title="央视频道",CCTV5
-http://192.151.150.154/live/cctv5p.m3u8
+http://221.226.51.220:50081/newlive/live/hls/5/live.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV10" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10.png" http-user-agent="AptvPlayer-UA" group-title="央视频道",CCTV10
 http://192.151.150.154/live/cctv10hd.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV10" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/CCTV10.png" http-user-agent="AptvPlayer-UA" group-title="央视频道",CCTV10
