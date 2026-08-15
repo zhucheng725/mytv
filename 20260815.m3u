@@ -49,29 +49,7 @@ http://r.jdshipin.com/Nr5jq
 http://r.jdshipin.com/ndGgS
 
 
-#EXTINF:-1 tvg-name="测试TVB翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0523
-http://iptv.4666888.xyz/iptv2A.php?id=26
-#EXTINF:-1 tvg-name="测试TVB翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0523
-http://67.220.71.199:2347/livehttpplay?channel_id=30025
-#EXTINF:-1 tvg-name="测试TVB翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0523
-http://o11.163189.xyz/stream/tvb/fct/
 
-#EXTINF:-1 tvg-name="0703翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0523
-http://push.cdn1.hls123.de:8080/streams/n6dnsi33w2e/index.m3u8
-#EXTINF:-1 tvg-name="0703翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0523
-http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
-#EXTINF:-1 tvg-name="0703翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0523
-https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
-#EXTINF:-1 tvg-name="0703翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0523
-http://111.221.137.234:44330/tsfile/live/0141_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-name="0703翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/TVB Plus.png" group-title="港澳代理",TVB0523
-http://183.234.143.5:85/tsfile/live/0001_1.m3u8?key=txiptv
-
-#EXTINF:-1 tvg-name="0815翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/翡翠台.png" group-title="港澳代理",TVB0815
-https://pull-f5-spe.ixigua.com/yeslivetv.com/291403ea-fabd-4dc1-bdfa-f14ebe74411e/index.m3u8
 #EXTINF:-1 tvg-name="0815翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/翡翠台.png" group-title="港澳代理",TVB0815
 http://74.91.26.218:82/live/jade.m3u8
-#EXTINF:-1 tvg-name="0815翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/翡翠台.png" group-title="港澳代理",TVB0815
-https://cdn.hklive.tv/xxxx/81/index.m3u8
-#EXTINF:-1 tvg-name="0815翡翠台" tvg-logo="https://gitee.com/suxuang/logo/raw/master/mylogo/翡翠台.png" group-title="港澳代理",TVB0815
-http://push.cdn1.hls123.de:8080/streams/n6dnsi33w2e/index.m3u8
+
